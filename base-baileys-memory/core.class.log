@@ -1,0 +1,40 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573192517624@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F70B0555DD712442D9',
+    participant: undefined
+  },
+  messageTimestamp: 1744213315,
+  pushName: 'Check In Pos',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola quiero  hacer un pedido',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: '‎Unknown',
+  body: 'hola quiero  hacer un pedido',
+  from: '573192517624'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fcea2b31-8cb1-48f7-9b41-ed708046a11f',
+  keyword: 'key_576ca77d-6b8a-44a8-85b6-5d1d5b8935ec',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '61a6009ec9f994d51e0b3169ed31cf96'
+}

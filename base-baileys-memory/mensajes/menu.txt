@@ -1,0 +1,7 @@
+Menu de opciones disponibles.
+
+1. -  hacer un pedido
+2. -  hacer una consulta
+3. -  hablar con un asesor
+
+0- Volver al inicio

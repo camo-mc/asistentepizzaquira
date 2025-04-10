@@ -1,0 +1,250 @@
+{
+    "pizzas_clasicas": {
+        "precios": {
+            "porcion": 9000,
+            "personal": 13000,
+            "mediana": 26000,
+            "familiar": 40000
+        },
+        "sabores": [
+            {
+                "nombre": "Hawaiana",
+                "ingredientes": [
+                    "Piña",
+                    "Jamón ahumado",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Pollo Champiñones",
+                "ingredientes": [
+                    "Pollo",
+                    "Champiñones",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Carnes",
+                "ingredientes": [
+                    "Jamón",
+                    "Tocineta",
+                    "Carne molida",
+                    "Chorizo",
+                    "Salami",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Mexicana",
+                "ingredientes": [
+                    "Carne molida",
+                    "Jalapeños",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Criolla",
+                "ingredientes": [
+                    "Maíz tierno",
+                    "Pollo",
+                    "Tocineta",
+                    "Salchicha",
+                    "Carne molida",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Campesina",
+                "ingredientes": [
+                    "Maíz tierno",
+                    "Tocineta",
+                    "Champiñones",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            }
+        ]
+    },
+    "pizzas_gourmet": {
+        "precios": {
+            "porcion": 9000,
+            "personal": 15000,
+            "mediana": 29000,
+            "familiar": 45000
+        },
+        "sabores": [
+            {
+                "nombre": "Costillas BBQ",
+                "ingredientes": [
+                    "Costillas en trozos en salsa BBQ",
+                    "Queso gouda",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Pepperoni",
+                "ingredientes": [
+                    "Pepperoni",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Pollo Teriyaki",
+                "ingredientes": [
+                    "Pollo en salsa teriyaki",
+                    "Cebolla",
+                    "Champiñones",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Ranchera Mix",
+                "ingredientes": [
+                    "Carne molida",
+                    "Chorizo",
+                    "Tocineta",
+                    "Salami",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Colombiana",
+                "ingredientes": [
+                    "Pollo",
+                    "Tocineta",
+                    "Chorizo",
+                    "Maíz tierno",
+                    "Queso mozzarella",
+                    "Salsa napolitana"
+                ]
+            },
+            {
+                "nombre": "Oreo (Dulce)",
+                "ingredientes": [
+                    "Queso mozzarella",
+                    "Galleta Oreo",
+                    "Salsa dulce"
+                ]
+            }
+        ]
+    },
+    "pizza_dog": {
+        "precio_unico": 15000,
+        "sabores": [
+            {
+                "nombre": "Mexicano",
+                "ingredientes": [
+                    "Masa de pizza",
+                    "Salchicha zenú",
+                    "Carne picada",
+                    "Guiso",
+                    "Jalapeños",
+                    "Salsas",
+                    "Queso mozzarella"
+                ]
+            },
+            {
+                "nombre": "Pollo Champiñones",
+                "ingredientes": [
+                    "Masa de pizza",
+                    "Salchicha zenú",
+                    "Pollo en guiso",
+                    "Champiñones",
+                    "Queso mozzarella",
+                    "Salsas"
+                ]
+            },
+            {
+                "nombre": "Hawaiano",
+                "ingredientes": [
+                    "Masa de pizza",
+                    "Salchicha zenú",
+                    "Jamón ahumado",
+                    "Piña",
+                    "Queso mozzarella",
+                    "Salsas"
+                ]
+            }
+        ]
+    },
+    "hamburguesas": {
+        "precio_unico": 20000,
+        "sabores": [
+            {
+                "nombre": "Minera",
+                "ingredientes": [
+                    "Carne",
+                    "Costilla BBQ",
+                    "Cebolla caramelizada",
+                    "Lechuga",
+                    "Tomate",
+                    "Queso mozzarella",
+                    "Tocineta"
+                ]
+            },
+            {
+                "nombre": "Miami",
+                "ingredientes": [
+                    "Pechuga de pollo en salsa bechamel",
+                    "Lechuga",
+                    "Tomate",
+                    "Queso mozzarella",
+                    "Tocineta"
+                ]
+            },
+            {
+                "nombre": "Mexicana",
+                "ingredientes": [
+                    "Carne",
+                    "Frijol molido",
+                    "Pico de gallo",
+                    "Tocineta",
+                    "Lechuga",
+                    "Tomate",
+                    "Queso mozzarella"
+                ]
+            },
+            {
+                "nombre": "Clásica",
+                "ingredientes": [
+                    "Carne",
+                    "Queso",
+                    "Lechuga",
+                    "Tomate",
+                    "Cebolla caramelizada"
+                ]
+            }
+        ]
+    },
+    "bebidas": [
+        {
+            "nombre": "Gaseosa 250 ml",
+            "precio": 3000
+        },
+        {
+            "nombre": "Gaseosa 400 ml",
+            "precio": 4000
+        },
+        {
+            "nombre": "Gaseosa 1.5 L",
+            "precio": 7000
+        },
+        {
+            "nombre": "Té o jugo del Valle",
+            "precio": 5000
+        }
+    ],
+    "combo": {
+        "precio_adicional": 6000,
+        "descripcion": "Incluye papas a la francesa y gaseosa personal de 250 ml"
+    }
+}
